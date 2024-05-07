@@ -79,15 +79,11 @@ new_tab = true
 heading = "How To Join"
 
 [[params.links.list3.link]]
-text = "contact any of our members for an invitation"
-url = "#"
+text = "Every Monday - subscribe now"
+url = "https://buy.stripe.com/28ofZQe0sdmDfjW4gg"
 
 # [[params.links.list3.link]]
 # text = "Link Two"
-# url = "#"
-
-# [[params.links.list3.link]]
-# text = "Link Three"
 # url = "#"
 
 # The original template is licensed via the template author's website: https://onepagelove.com/split

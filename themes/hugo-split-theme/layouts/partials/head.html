@@ -40,3 +40,6 @@
 {{ if and (.Site.GoogleAnalytics) (not (in (printf "%#v" .Site.BaseURL) "localhost")) }}
   {{ template "_internal/google_analytics.html" . }}
 {{ end }}
+
+<!--Klaviyo integration-->
+<script type="text/javascript" src="//static.klaviyo.com/onsite/js/klaviyo.js?company_id=WWshRE" ></script>
