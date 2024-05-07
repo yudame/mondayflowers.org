@@ -76,10 +76,10 @@ new_tab = true
 # Links List #3
 [[params.links]]
 [params.links.list3]
-heading = "How To Join"
+heading = "Early Access"
 
 [[params.links.list3.link]]
-text = "Every Monday - subscribe now"
+text = "subscribe now"
 url = "https://buy.stripe.com/28ofZQe0sdmDfjW4gg"
 
 # [[params.links.list3.link]]
