@@ -1,12 +1,12 @@
 +++
-title = ""
-tagline = "start fresh, every Monday"
+title = "Monday Flowers"
+tagline = "flowers on your doorstep. every Monday."
+cta_label = "Subscribe Now"
+cta_url = ""
 +++
 
-Our organization celebrates the accomplishments of women. Every Monday, flowers boost positivity and inspiration. We are a whole-hearted movement to promote those goals and accomplishement. And that is made possible when we believe and let our passion turn into action.
 
-As an organization, we insist that every interaction is personal. Each flower is hand-picked, each thoughtful note is hand-written. Because we value you, each customer's experience unique.
+Our vision is to transform your routine Mondays into an inspiring start of the week. We deliver floral arrangements directly to your door. Each bouquet is handcrafted and paired with a heartfelt handwritten note, affirming of your worth and effort to make this week great. Join us in redefining the start of your week with flowers. This is Monday Flowers.
 
-With an insistance to start each week with fresh energy and a reminder of the beauty in life, Monday Flowers is a weekly reminder to embrace whatever comes next with joy and optimism.
-
-All profits are donated to charity that promotes women's empowerment.
+All net profits are donated to projects that promote women's empowerment.
+In 2023, we donated $2000 to the women business owners victimized by the severe earthquake in Morocco.

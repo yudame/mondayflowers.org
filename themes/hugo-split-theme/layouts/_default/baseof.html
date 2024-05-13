@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode | default "en-us" }}">
+<html lang="{{ .Site.LanguageCode | default " en-us" }}">
 
 <head>
   {{ partial "head" . }}
@@ -12,14 +12,14 @@
     <!-- Image -->
     {{ if .Site.Params.visual.image.enable }}
 
-      <div class="split-image">
+    <div class="split-image">
 
-      </div>
+    </div>
 
     <!-- Video -->
     {{ else if .Site.Params.visual.video.enable }}
 
-      {{ partial "video" . }}
+    {{ partial "video" . }}
 
     {{ end }}
 
@@ -30,9 +30,9 @@
         {{ partial "intro" . }}
 
         <!-- Main -->
-        {{ block "main" .  }}
-          <!-- Bio -->
-          {{ partial "bio" . }}
+        {{ block "main" . }}
+        <!-- Bio -->
+        {{ partial "bio" . }}
         {{ end }}
 
         <!-- Footer -->
@@ -43,4 +43,5 @@
   </div>
 
 </body>
+
 </html>
